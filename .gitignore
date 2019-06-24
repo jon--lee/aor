@@ -1,0 +1,12 @@
+images/
+*.pyc
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.npy
+logs
+*.txt
+__pycache__/
+*.p
+
